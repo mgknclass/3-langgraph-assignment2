@@ -1,0 +1,7 @@
+loguru
+requests
+pydantic-settings
+langchain
+langchain-community
+langchain-openai
+langgraph
